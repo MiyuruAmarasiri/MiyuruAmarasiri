@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Miyuru Amarasiri</h1>
 <h3 align="center">A passionate for Data Analyst and Visualize</h3>
 
-- 🔭 I’m currently working on **Recommendation Systems for Economic Crisis**
+- 🔭 I’m currently working on **Proactive Cybercrime Detection using Generative AI and GNN Project**
 
 - 🌱 I’m currently learning **Python programming, Data visualization, Statistics, Database management, Machine learning and Deep learning**
 
