@@ -137,8 +137,6 @@ I believe a good developer is not only someone who writes code, but someone who 
 
 <div align="center">
 
-### 🇱🇰 From Sri Lanka, building one commit at a time.
-
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3500&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Learning.+Building.+Sharing.;Open+source+is+my+classroom.;Every+commit+is+progress." alt="Typing SVG"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D4429,50:00C853,100:0D4429&height=120&section=footer" width="100%" alt=""/>
